@@ -15,6 +15,20 @@
       "when": 1719956592198,
       "tag": "0001_demonic_mojo",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1720037322290,
+      "tag": "0002_silent_black_bird",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1720037405290,
+      "tag": "0003_worried_old_lace",
+      "breakpoints": true
     }
   ]
 }
